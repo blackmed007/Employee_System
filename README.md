@@ -1,6 +1,6 @@
-# Employee_System
+# Employees_System
 
-Simple EmployeeSystem Program using python 
+Simple Employees_System Program using Python 
 The program provides the following operations:
 
 ○ 1) Add new employee
@@ -14,8 +14,8 @@ The program provides the following operations:
 ○ 5) End the program
 
 
--The program will keep running  Until user choose to exit Break
+-The program will keep running  Until the user chooses to exit.
 
--The program has input validation function , that insure the input in required type .
+-The program has an input validation function, that insure the input in the required type.
 
 -The goal of the program is to build a basic OOP program and To Make use of Lists in Python 
