@@ -2,11 +2,17 @@
 
 Simple EmployeeSystem Program using python 
 The program provides the following operations:
+
 ○ 1) Add new employee
+
 ○ 2) Print all employees
+
 ○ 3) Delete by age
+
 ○ 4) Update Salary by name
+
 ○ 5) End the program
+
 
 -The program will keep running  Until user choose to exit Break
 
